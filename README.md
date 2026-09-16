@@ -87,19 +87,21 @@ A full-stack web application for exploring Ohio University dining hall menus and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EthanC306&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC306&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanC306&theme=github-compact&hide_border=true&area=true" width="100%" alt="Ethan's GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## Contribution Graph
+## Contributions
 
 <div align="center">
 
-[![Ethan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EthanC306&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EthanC306/EthanC306/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EthanC306/EthanC306/output/github-contribution-grid-snake.svg" />
+  <img alt="Ethan's GitHub Contribution Snake" src="https://raw.githubusercontent.com/EthanC306/EthanC306/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
