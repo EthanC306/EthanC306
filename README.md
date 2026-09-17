@@ -2,7 +2,7 @@
 
 # Hi, I'm Ethan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Computer+Science+%40+Ohio+University;Software+Engineering+%2B+Applied+AI;Undergraduate+AI+Researcher;Building+things+to+understand+how+they+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Computer+Science+%40+Ohio+University;Software+Engineering+%2B+Applied+AI;Research+Assistant;Building+things+to+understand+how+they+work)](https://git.io/typing-svg)
 
 Computer Science student at **Ohio University** interested in software engineering, applied AI, and building systems that solve real problems.
 
