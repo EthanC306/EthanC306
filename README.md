@@ -83,16 +83,6 @@ A full-stack web application for exploring Ohio University dining hall menus and
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanC306&theme=github-compact&hide_border=true&area=true" width="100%" alt="Ethan's GitHub Activity Graph" />
-
-</div>
-
----
-
 ## Contributions
 
 <div align="center">
