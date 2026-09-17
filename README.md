@@ -100,8 +100,6 @@ A full-stack web application for exploring Ohio University dining hall menus and
 <div align="center">
 
 ### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-EthanC306-181717?style=for-the-badge&logo=github)](https://github.com/EthanC306)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ethan_Claybourn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ethan-claybourn)
 
 </div>
